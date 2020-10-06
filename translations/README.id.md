@@ -5,8 +5,8 @@
 ## Table of Content
 
 - [Perkenalan](#perkenalan)
-- [Bahasa yang digunakan](#built-with)
-- [Instalasi](#installation)
+- [Bahasa yang digunakan](#dibuat-dengan-bahasa)
+- [Instalasi](#instalasi)
 - [Demo](#live-demo)
 
 <br>
