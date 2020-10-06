@@ -23,11 +23,11 @@
 <kbd>[<img title="Polski" alt="Indonesian" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/pl.svg" width="22">](./translations/README.id.md)</kbd>
 <br>
 
-## 🤔 Perkenalan
+## Perkenalan
 
 Tujuan dari repositori ini adalah untuk menghasilkan `Resume Github` untuk setiap pengguna github.
 
-## 🛠️ Dibuat dengan bahasa
+## Dibuat dengan bahasa
 
 - [React JS](https://reactjs.org/) - Front-End JavaScript library
 - [Material UI](https://material-ui.com/) - React UI Framework
