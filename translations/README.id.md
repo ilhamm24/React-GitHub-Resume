@@ -7,7 +7,7 @@
 - [Perkenalan](#perkenalan)
 - [Bahasa yang digunakan](#dibuat-dengan-bahasa)
 - [Instalasi](#instalasi)
-- [Demo](#live-demo)
+- [Demo](#demo-langsung)
 
 <br>
 
